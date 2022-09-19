@@ -1,24 +1,19 @@
 {
-  "name": "odoo-api",
-  "version": "1.3.2",
-  "description": "Odoo JSON-RPC client",
-  "license": "MIT",
-  "repository": "leeroybrun/odoo-api",
-  "author": {
-    "name": "Leeroy Brun",
-    "email": "leeroy.brun@gmail.com",
-    "url": "github.com/leeroybrun"
-  },
-  "engines": {
-    "node": ">=4"
+  "name": "@dia-software/odoo-api",
+  "version": "1.0.0",
+  "description": "odoo Library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   },
   "scripts": {
-    "test": "clinton && xo && ava"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "files": [
-    "index.js",
-    "lib"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIA-Connecting-Software/odoo-api.git"
+  },
   "keywords": [
     "odoo",
     "openerp",
@@ -40,4 +35,10 @@
     "sinon-as-promised": "^4.0.2",
     "xo": "*"
   }
+  "author": "DIA Connecting Software GmbH & Co. KG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DIA-Connecting-Software/odoo-api/issues"
+  },
+  "homepage": "https://github.com/DIA-Connecting-Software/odoo-api#readme"
 }
