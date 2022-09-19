@@ -34,7 +34,7 @@
     "sinon": "^1.17.5",
     "sinon-as-promised": "^4.0.2",
     "xo": "*"
-  }
+  },
   "author": "DIA Connecting Software GmbH & Co. KG",
   "license": "MIT",
   "bugs": {
