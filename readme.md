@@ -9,7 +9,7 @@ This is a fork of [`odoo-connect`](https://github.com/pridiktiv/odoo-connect) wi
 ## Install
 
 ```
-$ npm install --save odoo-api
+$ npm install --save @dia-software/odoo-api
 ```
 
 
